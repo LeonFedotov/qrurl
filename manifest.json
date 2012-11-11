@@ -1,0 +1,17 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Get a QR code for the current url.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5sZR33pDTy81VNTB9oZdYqzWtDywta0Kak3VyQaV83SYZZtOPvqFP38f0Wvll7J6srvWC2anb0w0aUVQKJZwgdO6NHednnEG82HHHCleCRN4ndKYI9rzgobgZUpHgkCL93FCi0z+QK4Jwquo6MQV4ovv3XCxf3LtJVTyy1EGceQIDAQAB",
+   "name": "QR Url",
+   "permissions": [ "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}
